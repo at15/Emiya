@@ -1,5 +1,7 @@
 # Use clone instead of new
 
+http://designpatternsphp.readthedocs.org/en/latest/Creational/Prototype/README.html
+
 ## If the class doesn't have __clone 
 
 clone will be faster and use less memory

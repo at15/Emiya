@@ -9,5 +9,5 @@ In order to
 
 ## Road map
 
-- [ ] setup folder structure
+- [x] setup folder structure
 - [ ] find useful design patterns
